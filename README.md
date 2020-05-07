@@ -1,4 +1,4 @@
-# yorkville
+# Zola Tech LLC
 
 ## Project setup
 ```
